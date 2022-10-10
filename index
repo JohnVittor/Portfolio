@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt_br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biografia</title>
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+    <br>
+<header>
+  João Vitor
+  <hr style="height:2px;border-width:0;color:gray;background-color:black">
+</header>
+<body>
+ <p class=paragrafo>
+   <br>
+   
+   Olá, tenho 17 anos, sou nascido e criado no Rio de Janeiro.
+   Sou iniciante em programação web e estou desenvolvendo minhas habilidades em CSS, JavaScript e HTML. Meu objetivo é trabalhar na área de tecnologia, em especial Engenharia da Computação.
+   <br> <br> <br> <br> <br> <br> <br>  <br>
+</body>
+<body>
+  <p class=contato>
+    <br><br>
+    CONTATO: <br><br>E-mail: joaobacana10@gmail.com
+    <br><br>
+    Social Media:
+    <br>
+    <a href= https://api.whatsapp.com/send/?phone=%2B5521995049919&text&type=phone_number&app_absent=0>WhatsApp</a> <br>
+    <a href= https://www.linkedin.com/in/jo%C3%A3o-vitor-8961171b2/> LinkedIn</a> <br>
+    <a href= https://github.com/JohnVittor> GitHub</a>
+</body>
+</html>
