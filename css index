@@ -1,0 +1,32 @@
+header{
+    font-size: 60px;
+    text-align: center;
+    <hr size="10" width="50%">
+  }
+  
+  
+  .paragrafo{
+    color: black;
+    font-size: 21px;
+    text-align: left;
+    font-family: verdana;
+    
+  
+    
+  }
+  .contato{
+    font-size: 21px;
+    color: black;
+    border-color: black;
+    border-width: 2px;
+    width: 224px;
+    height: 271px;
+    padding: 5px;
+    margin: 2px;
+    border:2px solid black;
+    border-top-width: 5px;
+    border-bottom-width: 5px;
+    border-left-width: 5px;
+    border-right-width: 5px;
+  }
+  
